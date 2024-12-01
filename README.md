@@ -1,6 +1,6 @@
 # Strawberry Shores
 
-Welcome to our App 3 project called Strawberry Shores!
+Welcome to our Game Programming App 3 project called Strawberry Shores!
 This is a 2D adventure RPG which takes place in a village called Strawberry Shores. It combines both puzzle and combat elements for an enjoyable experience. The player must complete a series of quests given to them by the village Wizard. 
 The town is in danger and needs your help!
 
